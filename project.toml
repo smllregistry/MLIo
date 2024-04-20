@@ -5,3 +5,5 @@ version = "0.1.0"
 authors = ["Hexaredecimal"]
 edition = "2024"
 
+[imports]
+scan = "java.util.Scanner"
